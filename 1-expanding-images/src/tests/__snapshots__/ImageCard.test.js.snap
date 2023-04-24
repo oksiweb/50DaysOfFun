@@ -1,0 +1,37 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ImageCard should add active class on click 1`] = `
+<div
+  class="panel active"
+  data-testid="image-card"
+  style="background-image: url(https://example.com/image.jpg);"
+>
+  <h3>
+    Test Image
+  </h3>
+</div>
+`;
+
+exports[`ImageCard should not add active class if not active 1`] = `
+<div
+  class="panel false"
+  data-testid="image-card"
+  style="background-image: url(https://example.com/image.jpg);"
+>
+  <h3>
+    Test Image
+  </h3>
+</div>
+`;
+
+exports[`ImageCard should render correctly 1`] = `
+<div
+  class="panel false"
+  data-testid="image-card"
+  style="background-image: url(https://example.com/image.jpg);"
+>
+  <h3>
+    Test Image
+  </h3>
+</div>
+`;
