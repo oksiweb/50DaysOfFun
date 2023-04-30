@@ -27,3 +27,10 @@
 
 - [Hidden search](https://charming-lolly-699a3b.netlify.app/)
 - [Source Code](https://github.com/oksiweb/50DaysOfFun/tree/main/4-hidden-search)
+
+## Day 4
+
+### Links
+
+- [Blurry loading](https://remarkable-pudding-701e27.netlify.app/)
+- [Source Code](https://github.com/oksiweb/50DaysOfFun/tree/main/5-blurry-loading)
