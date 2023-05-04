@@ -34,3 +34,17 @@
 
 - [Blurry loading](https://remarkable-pudding-701e27.netlify.app/)
 - [Source Code](https://github.com/oksiweb/50DaysOfFun/tree/main/5-blurry-loading)
+
+## Day 6
+
+### Links
+
+- [Scroll animation](https://super-crepe-719ce0.netlify.app/)
+- [Source Code](https://github.com/oksiweb/50DaysOfFun/tree/main/6-scroll-animation)
+
+## Day 7
+
+### Links
+
+- [Split landing page](https://aesthetic-clafoutis-a3de09.netlify.app/)
+- [Source Code](https://github.com/oksiweb/50DaysOfFun/tree/main/7-split-landing-page)
